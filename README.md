@@ -2,11 +2,9 @@
 
 🐞 [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained): museum of failures and recoveries.
 
-⚙ [.NET-specific system design](https://github.com/nasytnyk/dotnet-system-design-ukrainian): **Azure**-focused, on Ukrainian.
-
 📜 [Excalidraw presentations](https://github.com/nasytnyk/excalidraw-presentations): visualising my experience.
 
-🎱 [Bydłoclauder](https://github.com/nasytnyk/bydloclauder): if AI replaces me, make sure it knows how.
+
 
 🫠 [C# Leetcode](https://github.com/nasytnyk/csharp-leetcode): not doing, and hope will never need to.
 
@@ -27,6 +25,13 @@
 | [Docker](https://github.com/illia-tereshchuk/dotnet-docker-notes) | Basics, compose, .NET API + PostrgeSQL |
 | [RabbitMQ](https://github.com/illia-tereshchuk/dotnet-rabbitmq-notes) | Each side of messaging explained separately |
 | [GitHub Actions + Azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure-notes) | CI/CD of .NET API to Azure App Services |
+
+### А шо
+
+| Га? | Во |
+|-|-|
+| ⚙ [HelloInterview x .NET x Azure ](https://github.com/nasytnyk/dotnet-system-design-ukrainian) | Шо куда прикрутити |
+| 🎱 [Бидлоклодер](https://github.com/nasytnyk/bydloclauder) | Шоб матюкєтис вмів | 
 
 ### Contact Me
 
