@@ -2,11 +2,10 @@
 
 🐞 [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained): museum of failures and recoveries.
 
-📜 [Excalidraw presentations](https://github.com/nasytnyk/excalidraw-presentations): visualising my experience.
+📜 [Excalidraw Presentations](https://github.com/nasytnyk/excalidraw-presentations): visualising my experience.
 
 
-
-🫠 [C# Leetcode](https://github.com/nasytnyk/csharp-leetcode): not doing, and hope will never need to.
+<!-- 🫠 [C# Leetcode](https://github.com/nasytnyk/csharp-leetcode): not doing, and hope will never need to. -->
 
 ### Labs
 
@@ -28,10 +27,13 @@
 
 ### А шо
 
-| Га? | Во |
+| Га | Во |
 |-|-|
-| ⚙ [HelloInterview x .NET x Azure ](https://github.com/nasytnyk/dotnet-system-design-ukrainian) | Шо куда прикрутити |
+| ⚙ [HelloInterview під мене](https://github.com/nasytnyk/dotnet-system-design-ukrainian) | Шо куда прикрутити |
+| 🤔 [Основи C# під мене](https://github.com/nasytnyk/csharp-fundamentals-ukrainian) | Шоб соромно не було | 
 | 🎱 [Бидлоклодер](https://github.com/nasytnyk/bydloclauder) | Шоб матюкєтис вмів | 
+| 📐 [Ангулярчик](https://github.com/nasytnyk/angular-ukrainian) | Повчу колись може | 
+
 
 ### Contact Me
 
