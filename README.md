@@ -34,7 +34,7 @@
 
 | Га | Во |
 |-|-|
-| ⚙ [HelloInterview під мене](https://github.com/nasytnyk/dotnet-system-design-ukrainian) | Шо куда прикрутити |
+| ⚙ [HelloInterview під мене](https://github.com/nasytnyk/dotnet-system-design-ukrainian) | Шо куда прикручувати |
 | 🤔 [Основи C# під мене](https://github.com/nasytnyk/csharp-fundamentals-ukrainian) | Шоб соромно не було | 
 | 🎱 [Бидлоклодер](https://github.com/nasytnyk/bydloclauder) | Шоб матюкєтис вмів | 
 | 📐 [Ангулярчик](https://github.com/nasytnyk/angular-ukrainian) | Повчу колись може | 
