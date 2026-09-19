@@ -1,4 +1,4 @@
-LIVE: 🛢 [Oleumetry](https://github.com/nasytnyk/oleumetry) - oil domain - MQTT, RabbitMQ, GraphQL, React -> Azure.
+LIVE: 🛢 [Oleumetry](https://github.com/nasytnyk/oleumetry) - oil domain - (MQTT, RabbitMQ, GraphQL, React) -> Azure.
 
 ### Hey
 
