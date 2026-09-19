@@ -55,6 +55,8 @@
 
 [Kostiantyn Mantsurov](https://github.com/Ephtianura) - for a bit of inspiration.
 
+Oleg Redko - for support.
+
 ### Flex
 
 <a href="https://stackoverflow.com/users/3126087/nasytnyk"><img src="https://stackoverflow.com/users/flair/3126087.png?theme=dark" width="208" height="58" alt="profile for nasytnyk at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for nasytnyk at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
