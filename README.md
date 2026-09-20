@@ -57,7 +57,7 @@ LIVE: 🛢 [Oilgas](https://github.com/nasytnyk/oilgas) - oil domain - (MQTT, Ra
 
 [Kostiantyn Mantsurov](https://github.com/Ephtianura) - for a bit of inspiration.
 
-Oleg Redko - for support.
+[Oleg Redko](https://www.linkedin.com/in/oleg-redko-623a66277/) - for support.
 
 ### Flex
 
