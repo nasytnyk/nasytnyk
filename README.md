@@ -49,15 +49,15 @@ LIVE: 🛢 [Oilgas](https://github.com/nasytnyk/oilgas) - oil domain - (MQTT, Ra
 
 ### Appreciations
 
-[Dmytro Cherniavskyi](https://github.com/diliger) - for support in a critical moment. 
+[Dmytro Cherniavskyi](https://github.com/diliger) - for support when I needed it most.
 
-[Paul Shvorak](https://github.com/paulshvorak) - for sharing meaningful IT insights.
+[Paul Shvorak](https://github.com/paulshvorak) - for special philosophy and point of view.
 
-[Elber Funez](https://github.com/elberfunez) - for guidance on interview preparation.
+[Elber Funez](https://github.com/elberfunez) - for guidance on system design.
 
-[Oleg Redko](https://www.linkedin.com/in/oleg-redko-623a66277/) - for underlining what's important.
+[Oleg Redko](https://www.linkedin.com/in/oleg-redko-623a66277/) - for underlining certain priorities.
 
-[Kostiantyn Mantsurov](https://github.com/Ephtianura) - for inspiration and asking good questions.
+[Kostiantyn Mantsurov](https://github.com/Ephtianura) - for asking good questions.
 
 ### Flex
 
