@@ -51,9 +51,9 @@ LIVE: 🛢 [Oilgas](https://github.com/nasytnyk/oilgas) - oil domain - (MQTT, Ra
 
 [Dmytro Cherniavskyi](https://github.com/diliger) - for support in a critical moment. 
 
-[Elber Funez](https://github.com/elberfunez) - for guidance on interview preparation.
-
 [Paul Shvorak](https://github.com/paulshvorak) - for sharing meaningful IT insights.
+
+[Elber Funez](https://github.com/elberfunez) - for guidance on interview preparation.
 
 [Oleg Redko](https://www.linkedin.com/in/oleg-redko-623a66277/) - for underlining what's important.
 
